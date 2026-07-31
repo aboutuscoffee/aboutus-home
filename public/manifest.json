@@ -1,11 +1,11 @@
 {
   "name": "About Us Coffee",
-  "short_name": "About Us",
+  "short_name": "Management",
   "description": "About Us Coffee 店舗アプリ ホーム",
   "start_url": "/aboutus-home/",
   "display": "standalone",
   "background_color": "#f4efe9",
-  "theme_color": "#292524",
+  "theme_color": "#2e2e2e",
   "icons": [
     {
       "src": "/aboutus-home/icon-192.png",
