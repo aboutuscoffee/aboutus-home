@@ -23,6 +23,18 @@ const APPS = [
     desc: "担当制度・タスク管理",
     url: "https://aboutuscoffee.github.io/aboutus-staff-todo/",
   },
+  {
+    icon: "icon-okashi.svg",
+    name: "仕込みTodo表",
+    desc: "お菓子の仕込みスケジュール",
+    url: "https://aboutuscoffee.github.io/aboutus-okashi-scheduler/",
+  },
+  {
+    icon: "icon-food-qc.svg",
+    name: "フード仕込みQC",
+    desc: "仕込みのクオリティチェック",
+    url: "https://aboutuscoffee.github.io/aboutus-food-qc/",
+  },
 ];
 
 export default function App() {
