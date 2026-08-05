@@ -35,6 +35,12 @@ const APPS = [
     desc: "仕込みのクオリティチェック",
     url: "https://aboutuscoffee.github.io/aboutus-food-qc/",
   },
+  {
+    icon: "icon-beans-story.png",
+    name: "豆のストーリー",
+    desc: "お客様向け・世界地図で巡る豆",
+    url: "https://aboutuscoffee.github.io/aboutus-beans-story/",
+  },
 ];
 
 export default function App() {
