@@ -41,6 +41,12 @@ const APPS = [
     desc: "お客様向け・世界地図で巡る豆",
     url: "https://aboutuscoffee.github.io/aboutus-beans-story/",
   },
+  {
+    icon: "icon-drip-qc.svg",
+    name: "ドリップ抽出QC",
+    desc: "抽出品質のQC報告書",
+    url: "https://aboutuscoffeeinfo-lgtm.github.io/CoffeeQC/",
+  },
 ];
 
 export default function App() {
