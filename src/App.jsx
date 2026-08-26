@@ -24,28 +24,22 @@ const APPS = [
     url: "https://aboutuscoffee.github.io/aboutus-staff-todo/",
   },
   {
-    icon: "icon-okashi.svg",
-    name: "仕込みTodo表",
-    desc: "お菓子の仕込みスケジュール",
-    url: "https://aboutuscoffee.github.io/aboutus-okashi-scheduler/",
-  },
-  {
     icon: "icon-food-qc.svg",
     name: "フード仕込みQC",
     desc: "仕込みのクオリティチェック",
     url: "https://aboutuscoffee.github.io/aboutus-food-qc/",
   },
   {
-    icon: "icon-beans-story.png",
-    name: "豆のストーリー",
-    desc: "お客様向け・世界地図で巡る豆",
-    url: "https://aboutuscoffee.github.io/aboutus-beans-story/",
-  },
-  {
     icon: "icon-drip-qc.svg",
     name: "ドリップ抽出QC",
     desc: "抽出品質のQC報告書",
     url: "https://aboutuscoffeeinfo-lgtm.github.io/CoffeeQC/",
+  },
+  {
+    icon: "icon-order-sheet.svg",
+    name: "発注表",
+    desc: "在庫・発注数と送料無料ライン",
+    url: "https://aboutuscoffee.github.io/aboutus-order-sheet/",
   },
 ];
 
