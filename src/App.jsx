@@ -35,12 +35,6 @@ const APPS = [
     desc: "抽出品質のQC報告書",
     url: "https://aboutuscoffeeinfo-lgtm.github.io/CoffeeQC/",
   },
-  {
-    icon: "icon-order-sheet.svg",
-    name: "発注表",
-    desc: "在庫・発注数と送料無料ライン",
-    url: "https://aboutuscoffee.github.io/aboutus-order-sheet/",
-  },
 ];
 
 export default function App() {
