@@ -35,6 +35,18 @@ const APPS = [
     desc: "抽出品質のQC報告書",
     url: "https://aboutuscoffeeinfo-lgtm.github.io/CoffeeQC/",
   },
+  {
+    icon: "icon-wholesale.png",
+    name: "卸カタログ",
+    desc: "取引先向け・卸売豆カタログ",
+    url: "https://aboutuscoffee.github.io/aboutus-wholesale/",
+  },
+  {
+    icon: "icon-beans-story.png",
+    name: "豆のストーリー",
+    desc: "お客様向け・世界地図で巡る豆",
+    url: "https://aboutuscoffee.github.io/aboutus-beans-story/",
+  },
 ];
 
 export default function App() {
