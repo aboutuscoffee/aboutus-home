@@ -47,6 +47,12 @@ const APPS = [
     desc: "お客様向け・世界地図で巡る豆",
     url: "https://aboutuscoffee.github.io/aboutus-beans-story/",
   },
+  {
+    icon: "icon-events.png",
+    name: "イベント出店",
+    desc: "イベント出店の管理",
+    url: "https://aboutus-events.yuka-k-aboutuscoffee.workers.dev/",
+  },
 ];
 
 export default function App() {
